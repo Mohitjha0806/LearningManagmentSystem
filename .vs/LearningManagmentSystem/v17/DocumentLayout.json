@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|c:\\users\\welcome\\source\\repos\\learningmanagmentsystem\\reportpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|solutionrelative:reportpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|c:\\users\\welcome\\source\\repos\\learningmanagmentsystem\\studymaterial.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|solutionrelative:studymaterial.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|c:\\users\\welcome\\source\\repos\\learningmanagmentsystem\\studymaterial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|solutionrelative:studymaterial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|c:\\users\\welcome\\source\\repos\\learningmanagmentsystem\\studentregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|solutionrelative:studentregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|c:\\users\\welcome\\source\\repos\\learningmanagmentsystem\\studentregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|solutionrelative:studentregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|c:\\users\\welcome\\source\\repos\\learningmanagmentsystem\\signuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|solutionrelative:signuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|c:\\users\\welcome\\source\\repos\\learningmanagmentsystem\\signinpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|solutionrelative:signinpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|c:\\users\\welcome\\source\\repos\\learningmanagmentsystem\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|c:\\users\\welcome\\source\\repos\\learningmanagmentsystem\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DBF168C7-74A3-443B-A1A5-63AD693D897B}|LearningManagmentSystem.csproj|solutionrelative:masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportPage.aspx",
+              "DocumentMoniker": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\ReportPage.aspx",
+              "RelativeDocumentMoniker": "ReportPage.aspx",
+              "ToolTip": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\ReportPage.aspx",
+              "RelativeToolTip": "ReportPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T04:59:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudyMaterial.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\StudyMaterial.aspx.cs",
+              "RelativeDocumentMoniker": "StudyMaterial.aspx.cs",
+              "ToolTip": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\StudyMaterial.aspx.cs",
+              "RelativeToolTip": "StudyMaterial.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:58:47.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudyMaterial.aspx",
+              "DocumentMoniker": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\StudyMaterial.aspx",
+              "RelativeDocumentMoniker": "StudyMaterial.aspx",
+              "ToolTip": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\StudyMaterial.aspx",
+              "RelativeToolTip": "StudyMaterial.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T04:58:09.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRegistration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\StudentRegistration.aspx.cs",
+              "RelativeDocumentMoniker": "StudentRegistration.aspx.cs",
+              "ToolTip": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\StudentRegistration.aspx.cs",
+              "RelativeToolTip": "StudentRegistration.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwv08AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:56:36.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRegistration.aspx",
+              "DocumentMoniker": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\StudentRegistration.aspx",
+              "RelativeDocumentMoniker": "StudentRegistration.aspx",
+              "ToolTip": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\StudentRegistration.aspx",
+              "RelativeToolTip": "StudentRegistration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T04:55:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpPage.aspx",
+              "DocumentMoniker": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\SignUpPage.aspx",
+              "RelativeDocumentMoniker": "SignUpPage.aspx",
+              "ToolTip": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\SignUpPage.aspx",
+              "RelativeToolTip": "SignUpPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T04:50:21.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignInPage.aspx",
+              "DocumentMoniker": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\SignInPage.aspx",
+              "RelativeDocumentMoniker": "SignInPage.aspx",
+              "ToolTip": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\SignInPage.aspx",
+              "RelativeToolTip": "SignInPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T04:50:04.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\HomePage.aspx",
+              "RelativeDocumentMoniker": "HomePage.aspx",
+              "ToolTip": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\HomePage.aspx",
+              "RelativeToolTip": "HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T04:48:26.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\MasterPage.Master",
+              "RelativeDocumentMoniker": "MasterPage.Master",
+              "ToolTip": "C:\\Users\\welcome\\source\\repos\\LearningManagmentSystem\\MasterPage.Master",
+              "RelativeToolTip": "MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T04:41:33.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
