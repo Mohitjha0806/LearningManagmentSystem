@@ -12,8 +12,6 @@ public partial class StudyMaterial : System.Web.UI.Page
 
     }
 
-
-
     protected void btnUpload_Click(object sender, EventArgs e)
     {
         SqlConnection conn = new SqlConnection(ConfigurationManager.ConnectionStrings["connection"].ConnectionString);
@@ -74,7 +72,7 @@ public partial class StudyMaterial : System.Web.UI.Page
 
         if (videoUpload.HasFile)
         {
-            if (videoUpload.PostedFile.ContentLength > 500 * 1024)
+            if (videoUpload.PostedFile.ContentLength > 500 *  1024 )
             {
                 lblMessage.Text = "Video file size should not exceed 500KB.";
                 lblMessage.ForeColor = System.Drawing.Color.Red;

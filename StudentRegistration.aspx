@@ -45,7 +45,7 @@
 
                                 <div class="col-md-6 mb-3">
                                     <label for="txtStudentID" class="form-label">Student ID</label>
-                                    <asp:TextBox ID="txtStudentID" CssClass="form-control" runat="server" placeholder="Enter Student ID" MaxLength="10"></asp:TextBox>
+                                    <asp:TextBox ID="txtStudentID" CssClass="form-control" runat="server" placeholder="Enter Student ID" MaxLength="6"></asp:TextBox>
                                     <asp:RequiredFieldValidator ID="rfvStudentID" runat="server" ControlToValidate="txtStudentID" ErrorMessage="Student ID is required." CssClass="text-danger form-label" Display="Dynamic"></asp:RequiredFieldValidator>
                                 </div>
                             </div>

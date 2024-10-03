@@ -94,11 +94,11 @@
                                 <div class="col-md-6 mb-3">
                                     <label for="fileVideo" class="form-label">Upload Video (Under 500KB)</label>
                                     <asp:FileUpload ID="videoUpload" CssClass="form-control" runat="server" />
-                                    <asp:RegularExpressionValidator ID="revVideo" runat="server" ControlToValidate="videoUpload"
+                                  <%--  <asp:RegularExpressionValidator ID="revVideo" runat="server" ControlToValidate="videoUpload"
                                         ErrorMessage="Please upload a valid video file." CssClass="form-label text-danger"
                                         Display="Dynamic" ForeColor="Red"
-                                        ValidationExpression=".*\.(mp4|avi|mov)$"></asp:RegularExpressionValidator>
-                                </div>
+                                        ValidationExpression=".*\.(3gp|avi|mov)$"></asp:RegularExpressionValidator>
+                                </div>--%>
                             </div>
 
                             <div class="row">
